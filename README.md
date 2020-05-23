@@ -117,7 +117,7 @@ We will setup path based (`/foo`, `/bar`) multi-cluster load balancing for two d
 
 - **Deploy Both Foo & Bar Applications**:
 
-  We're going to use simple web app that displays basic information about Pod serving the traffic [k8s-demp-app[1]
+  We're going to use simple web app that displays basic information about Pod serving the traffic [k8s-demo-app][1]
 
   [1]: https://github.com/stepanstipl/k8s-demo-app
 
