@@ -10,6 +10,8 @@
 
 We will setup path based (`/foo`, `/bar`) multi-cluster load balancing for two demo services - Foo and Bar.
 
+![architecture](imgs/arch.jpg)
+
 ## Setup Load Balancing (GCLB) components
 
 - **Point `gcloud` to Your Project**:
